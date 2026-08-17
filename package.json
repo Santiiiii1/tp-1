@@ -6,6 +6,6 @@
   "scripts": {
     "diagnostico": "node diagnostico.js prueba"
   },
-  "author": "",
+  "author": "Santino",
   "license": "ISC"
 }
