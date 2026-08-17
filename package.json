@@ -1,0 +1,11 @@
+{
+  "name": "diagnostico-node",
+  "version": "1.0.0",
+  "description": "Ejercicio simple para mostrar datos de Node.js y process.",
+  "main": "diagnostico.js",
+  "scripts": {
+    "diagnostico": "node diagnostico.js prueba"
+  },
+  "author": "",
+  "license": "ISC"
+}
