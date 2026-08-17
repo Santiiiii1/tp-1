@@ -1,0 +1,16 @@
+Comando ejecutado:
+node diagnostico.js prueba
+
+Salida:
+Diagnostico de Node.js
+----------------------
+Version de Node: v26.7.0
+Plataforma: win32
+Argumentos:
+[
+  'C:\\nvm4w\\nodejs\\node.exe',
+  'C:\\Users\\santi\\tp1\\diagnostico.js',
+  'prueba'
+]
+Variable de entorno USERNAME:
+santi
